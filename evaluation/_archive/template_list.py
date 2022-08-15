@@ -73,11 +73,15 @@ template_list = {
     ],
     ("super_glue", "wic"): [
         "question-context-meaning-with-label",
+        "question-context-meaning",
         "grammar_homework",
         "affirmation_true_or_false",
+        "GPT-3-prompt",
         "same_sense",
+        "question-context",
         "GPT-3-prompt-with-label",
         "polysemous",
+        "similar-sense",
     ],
     ("hellaswag", None): [
         "Predict ending with hint",
@@ -87,32 +91,16 @@ template_list = {
     ],
     ("super_glue", "copa"): [
         "exercise",
+        "…What could happen next, C1 or C2?",
         "i_am_hesitating",
         "plausible_alternatives",
         "C1 or C2? premise, so/because…",
+        "…As a result, C1 or C2?",
         "best_option",
+        "…which may be caused by",
         "more likely",
         "cause_effect",
+        "…why? C1 or C2",
         "choose",
-    ],
-    ("openbookqa","main"):[
-        'choose_an_answer_with_options',
-        'which_correct',
-        'pick_using_id',
-        'choices',
-        'only_options',
-        'which_correct_inverse',
-        'pick_answer_with_options'
-    ],
-    ("piqa",None):[
-        'choose the most appropriate solution',
-        'finish_sentence_with_correct_choice',
-        'pick_correct_choice_index',
-        'pick_correct_choice_with_choice_given_before_goal',
-        'what_is_the_correct_ending',
-    ],
-    ("rotten_tomatoes",None):[
-        'Reviewer Opinion bad good choices',
-        'Sentiment with choices'
     ]
 }

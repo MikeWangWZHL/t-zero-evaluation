@@ -1,0 +1,8 @@
+{
+    "dataset_name": "piqa",
+    "dataset_config_name": null,
+    "template_name": "what_is_the_correct_ending",
+    "evaluation": {
+        "accuracy": 0.6653971708378672
+    }
+}

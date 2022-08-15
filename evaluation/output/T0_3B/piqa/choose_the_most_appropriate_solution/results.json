@@ -1,0 +1,8 @@
+{
+    "dataset_name": "piqa",
+    "dataset_config_name": null,
+    "template_name": "choose the most appropriate solution",
+    "evaluation": {
+        "accuracy": 0.49510337323177367
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "dataset_name": "piqa",
+    "dataset_config_name": null,
+    "template_name": "finish_sentence_with_correct_choice",
+    "evaluation": {
+        "accuracy": 0.7725788900979326
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "dataset_name": "piqa",
+    "dataset_config_name": null,
+    "template_name": "pick_correct_choice_with_choice_given_before_goal",
+    "evaluation": {
+        "accuracy": 0.6240478781284005
+    }
+}

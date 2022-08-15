@@ -1,0 +1,8 @@
+{
+    "dataset_name": "openbookqa",
+    "dataset_config_name": "main",
+    "template_name": "pick_answer_with_options",
+    "evaluation": {
+        "accuracy": 0.442
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "dataset_name": "super_glue",
+    "dataset_config_name": "wic",
+    "template_name": "GPT-3-prompt-with-label",
+    "evaluation": {
+        "accuracy": 0.54858934169279
+    }
+}
